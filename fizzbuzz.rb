@@ -1,3 +1,3 @@
-def fizzbuzz
+def fizzbuzz(n)
   puts
 end
